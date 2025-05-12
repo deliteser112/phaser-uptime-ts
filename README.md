@@ -2,8 +2,6 @@
 
 A sophisticated uptime clock built with Phaser 3 and TypeScript. This project displays a running clock that shows how long the application has been running, with a modern and responsive design.
 
-![Uptime Clock Screenshot](screenshots/uptime-clock.png)
-
 ## 🌟 Features
 
 - Real-time uptime display with precise timing
@@ -34,7 +32,7 @@ A sophisticated uptime clock built with Phaser 3 and TypeScript. This project di
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/phaser-uptime-ts.git
+git clone https://github.com/deliteser112/phaser-uptime-ts.git
 cd phaser-uptime-ts
 ```
 
